@@ -11,8 +11,9 @@ public class CardTrick {
     public static void main(String[] args)
     {
        Card cards = new Card();
+       Card cards2 = new Card();
         cards.setValue(10);
-        cards.setSuit("Spades")
+        cards.setSuit("Spades");
             System.out.println(cards.getValue() + cards.getSuit());
     }
     
