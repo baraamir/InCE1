@@ -2,8 +2,9 @@
 package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
 /**
- *Name: Amir Barakat
- *Student ID: 991592931
+ *Name:Amir Bara
+ * Student ID:991592931
+ *
  */
 public class CardTrick {
     Card cards = new Card();
